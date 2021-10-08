@@ -1,6 +1,6 @@
 # contact form with mysql database
 
-**How to install:**
+***How to install:***
 
 Put the files in your xampp folder
 
@@ -8,7 +8,7 @@ Open MySQL and click on "import" - choose the database file (kontaktformular.sql
 
 
 
-**How to use:**
+***How to use:***
 
 Put data in the given fields
 
@@ -18,7 +18,7 @@ email address must be valid
 
 
 
-**How to configure:**
+***How to configure:***
 
 You can edit or move around the "divs" in the "index.php" file. Watch out for classes and IDs if you do so.
 
