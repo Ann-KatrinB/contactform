@@ -20,4 +20,6 @@ email address must be valid
 
 **How to configure:**
 
-You can edit or move around the "divs" in the index.php file. Watch out for classes and IDs if you do so.
+You can edit or move around the "divs" in the "index.php" file. Watch out for classes and IDs if you do so.
+
+You can change the css, which you can find in the "index.php".
