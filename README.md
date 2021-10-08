@@ -3,7 +3,6 @@
 **How to install:**
 
 Put the files in your xampp folder
-
 Open MySQL and click on "import" - choose the database file (kontaktformular.sql)
 
 
